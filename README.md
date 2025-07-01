@@ -9,7 +9,7 @@ A **real-time fullstack chat application** built with:
 
 <div align="center">
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D058&width=300&lines=Built+with+Node.js+💚" alt="Node.js Typing SVG" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Nodejs_logo_gif.gif" alt="Node.js" width="60" height="60"/>
 </p>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
