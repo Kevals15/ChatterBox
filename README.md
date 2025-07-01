@@ -8,8 +8,9 @@
 A **real-time fullstack chat application** built with:
 
 <div align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Node.js Animated Logo" width="80" height="80"/>
-
+<p align="center">
+  <img src="https://i.postimg.cc/7LGG7qWc/nodejs-animated.gif" alt="Node.js Animated Logo" width="100" height="100"/>
+</p>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
