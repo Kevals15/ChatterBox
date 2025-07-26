@@ -33,19 +33,19 @@ A **real-time fullstack chat application** built with:
 
 ## 📁 **Project Structure**
 
-fullstack-chat-app/
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ ├── models/
-│ ├── lib/
-│ ├── server.js
-│ └── package.json
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
-└── README.md
+fullstack-chat-app/ <br>
+├── backend/ <br>
+│ ├── controllers/ <br>
+│ ├── routes/ <br>
+│ ├── models/ <br>
+│ ├── lib/ <br>
+│ ├── server.js <br>
+│ └── package.json <br>
+├── frontend/ <br>
+│ ├── src/ <br>
+│ ├── public/ <br>
+│ └── package.json <br>
+└── README.md <br>
 
 
 ---
